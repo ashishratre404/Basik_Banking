@@ -20,8 +20,8 @@ Create a simple dynamic website which has the following specs.</br>
    
    
 # Tech Stack
-FRONT END : HTML, CSS, JavaScript, Bootstrap
-BACK END : PHP
-DATABASE : MySQL
-
+FRONT END : HTML, CSS, JavaScript, Bootstrap<br>
+BACK END : PHP<br>
+DATABASE : MySQL<br>
+<br>
 This website is hosted at infinityfree : http://thesparksbank.epizy.com/
